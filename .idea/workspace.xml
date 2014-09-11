@@ -24,38 +24,38 @@
   <component name="ChangeListManager">
     <list default="true" id="6a994a3f-e6d9-45d3-a477-e9148c617412" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\copyright\profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\proguard-rules.pro" />
       <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\menu\main.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\strings.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\styles.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.gitignore" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\layout\activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\androidTest\java\com\example\admin\sunshine\app\ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\misc.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\scopes\scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\support_annotations_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\support_v4_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values-w820dp\dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\java\com\example\admin\sunshine\app\MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\build.gradle" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\dimens.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.AndroidStudioBeta/config/options/plugin_ui.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\layout\fragment_main.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\app.iml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\appcompat_v7_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\.gitignore" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\misc.xml" />
       <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\Sunshine2.iml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\app.iml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\java\com\example\admin\sunshine\app\MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values-w820dp\dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\support_v4_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\build.gradle" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\gradle.xml" />
       <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\build.gradle" />
       <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\modules.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\.gitignore" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\Sunshine2.iml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\scopes\scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\copyright\profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\support_annotations_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\androidgit\.idea\libraries\support_v4_19_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\layout\activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\strings.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\androidTest\java\com\example\admin\sunshine\app\ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\styles.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\layout\fragment_main.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.gitignore" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\appcompat_v7_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\androidgit\.idea\libraries\appcompat_v7_19_1_0.xml" />
     </list>
     <ignored path="Crystal Ball.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,7 +98,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="CrystalBall" />
+              <option name="name" value="androidgit" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -109,7 +109,7 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="CrystalBall" />
+                <option name="name" value="androidgit" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -133,11 +133,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseNdk" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:19.1.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV71910Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -381,6 +376,11 @@
                 <option name="name" value="compileReleaseAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:20.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72000Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugTestResources" />
               </ExternalTaskPojo>
@@ -439,6 +439,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preDebugTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:20.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV42000Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -797,9 +802,14 @@
                 <option name="name" value="preReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:19.1.0" />
+                <option name="description" value="Prepare com.android.support:appcompat-v7:20.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV71910Library" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72000Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:20.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportV42000Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -889,7 +899,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4214177833832" />
+        <entry key="$PROJECT_DIR$" value="4219878828115" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1043,9 +1053,11 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.48/28b7614b908a47844bb27e3c94b45b6893656265/bcpkix-jdk15on-1.48.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/0.12.2/cbbbe556e0103ceb734ac7a269ecb9a9e2f33d4c/builder-0.12.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/0.12.2/3673e1c415b054caccc3231dcdff959cfcb315f6/builder-0.12.2.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/appcompat-v7/19.1.0/appcompat-v7-19.1.0.aar" />
-                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/appcompat-v7/20.0.0/appcompat-v7-20.0.0.aar" />
+                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/support-v4/20.0.0/support-v4-20.0.0-sources.jar" />
+                            <option value="$APPLICATION_HOME_DIR$/sdk/extras/android/m2repository/com/android/support/support-v4/20.0.0/support-v4-20.0.0.aar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/app" />
@@ -1154,6 +1166,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/crystalball/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/crystalball/CrystalBall.java" />
+        <option value="$USER_HOME$/AndroidStudioProjects/CrystalBall/app/src/main/res/layout/activity_git_test.xml" />
       </list>
     </option>
   </component>
@@ -1207,6 +1220,116 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crystal Ball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidgit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crystal Ball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidgit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crystal Ball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidgit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crystal Ball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidgit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crystalball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crystal Ball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidgit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="AndroidView" />
@@ -1230,6 +1353,15 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="com.example.admin.crystalball" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="com.example.admin.crystalball.MainActivity" />
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.MainActivity">
     <configuration default="false" name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
@@ -1440,6 +1572,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16879293" sideWeight="0.49946696" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1461,7 +1594,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16879293" sideWeight="0.49946696" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955465" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1487,6 +1619,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/CrystalBall/app/src/main/res/layout/activity_git_test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="374">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/crystalball/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
@@ -1556,6 +1696,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="969">
           <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/CrystalBall/app/src/main/java/com/example/admin/crystalball/gitTestActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AndroidStudioProjects/CrystalBall/app/src/main/res/layout/activity_git_test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18959108" vertical-offset="0" max-vertical-offset="538">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
