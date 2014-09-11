@@ -23,39 +23,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a994a3f-e6d9-45d3-a477-e9148c617412" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/androidTest/java/com/example/admin/sunshine/app/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/java/com/example/admin/sunshine/app/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/Sunshine2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/app.iml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\gradle.properties" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\copyright\profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\proguard-rules.pro" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\menu\main.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\strings.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\styles.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.gitignore" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\layout\activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\androidTest\java\com\example\admin\sunshine\app\ApplicationTest.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\misc.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\scopes\scope_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/libraries/appcompat_v7_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/layout/fragment_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/menu/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\support_annotations_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\support_v4_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values-w820dp\dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\java\com\example\admin\sunshine\app\MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\build.gradle" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\values\dimens.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.AndroidStudioBeta/config/options/plugin_ui.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/app/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/libraries/support_annotations_20_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\res\layout\fragment_main.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\app.iml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\libraries\appcompat_v7_20_0_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/libraries/support_v4_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Sunshine2/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\.gitignore" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\src\main\AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\Sunshine2.iml" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\app\build.gradle" />
+      <change type="NEW" beforePath="" afterPath="C:\Users\Admin\git\Sunshine2\.idea\modules.xml" />
     </list>
     <ignored path="Crystal Ball.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1189,8 +1189,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1199,9 +1197,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Crystal Ball" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="androidgit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1215,6 +1225,11 @@
     <property name="FullScreen" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Android Application.MainActivity">
     <configuration default="false" name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
@@ -1419,7 +1434,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1437,7 +1452,7 @@
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16909385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16909385" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1480,13 +1495,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="544">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/crystalball/CrystalBall.java">
@@ -1504,13 +1519,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="544">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/crystalball/CrystalBall.java">
@@ -1528,13 +1543,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47530866" vertical-offset="58" max-vertical-offset="544">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/crystalball/CrystalBall.java">
